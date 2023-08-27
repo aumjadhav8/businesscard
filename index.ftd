@@ -4,8 +4,8 @@
 -- ds.page: Business Card
 
 
--- front.front: John Doe
-title: Software Developer
+-- front.front: Aum J
+title: Full Stack Developer
 company: John Doe Pvt. Ltd.
 logo: $assets.files.assets.logo.svg
 contact-1: +91 12345 99999
