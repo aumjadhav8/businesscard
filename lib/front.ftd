@@ -25,11 +25,11 @@ padding-vertical.px: 40
 padding-left.px: 40
 
 -- ftd.text: $front.name
-color: $inherited.colors.text-strong
+color: white
 role: $inherited.types.heading-medium
 
 -- ftd.text: $front.title
-color: $inherited.colors.text
+color: white
 role: $inherited.types.copy-small
 
 -- line:
@@ -57,7 +57,7 @@ height: fill-container
 align-content: center
 
 -- ftd.image:
-src: $front.logo
+src: $assets.files.assets.LOGO.png
 width.fixed.px: 80
 margin-left.px: 120
 
