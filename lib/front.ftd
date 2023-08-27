@@ -13,9 +13,10 @@ optional string location:
 -- ftd.row:
 width.fixed.px: 700
 height.fixed.px: 350
-background.solid: $inherited.colors.background.base
+background.solid: rgb(2,0,36)
 spacing: space-around
-border-width.px: 1
+border-width.px: 10
+border-radius.px: 10
 border-color: $inherited.colors.border
 
 -- ftd.column:
@@ -51,7 +52,7 @@ info-1: $front.location
 
 -- ftd.column:
 width.fixed.percent: 50
-background.image: $logo-bg
+background.image: $assets.files.assets.abstractbg.png
 height: fill-container
 align-content: center
 
